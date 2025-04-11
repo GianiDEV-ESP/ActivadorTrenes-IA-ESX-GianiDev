@@ -7,11 +7,9 @@ Un sistema avanzado para activar **trenes y metros automáticos con NPCs** utili
 ## 🧠 ¿Qué hace este sistema?
 
 - Activa trenes y metros de forma automática como en el GTA V original.
-- Incluye **NPCs pasajeros** que simulan subidas y bajadas.
-- Utiliza rutas predeterminadas o personalizables.
+- Utiliza rutas predeterminadas.
 - Compatible con servidores ESX.
 - Pensado para una integración fluida en servidores roleplay.
-- Totalmente configurable.
 
 ---
 
